@@ -1,2 +1,2 @@
-username = "your_username"
-password = "your_password"
+username = "your_rds_username"
+password = "your_rds_password"
